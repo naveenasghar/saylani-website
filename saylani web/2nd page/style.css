@@ -1,0 +1,44 @@
+.text h1{
+    color: green;
+    justify-content: center;
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.text h2{
+    color: blue;
+    justify-content: center;
+    display: flex;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/* .form{ */
+    /* width:450px; */
+    /* background:none; */
+    /* padding: 30px; */
+    
+    /* border: none; */
+    
+/* } */
+/* .form data{
+    width:40px;
+    height: 100%;
+    position: relative; */
+
+}
+/* .form data input{
+    height: 100%;
+    width:100%;
+    border: none; */
+    /* border-bottom: 2px solid silver; */
+
+}
+/* .form data label{
+    position: absolute;
+    bottom: 10px;
+    left: 0%;
+    /* color: gray; */
+    /* pointer-events: none;
+    font-size: 17px; */ */
+
+}
