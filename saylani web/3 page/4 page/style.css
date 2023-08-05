@@ -1,0 +1,118 @@
+.text h1 {
+
+    font-size: 50px;
+    color: green;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    height: 20px;
+
+
+
+}
+
+.text h2 {
+    font-size: 25px;
+    color: blue;
+    margin-top: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-seri
+}
+
+.image img {
+    width: 32px;
+    height: 25px;
+    flex-shrink: 0;
+    margin-left: 90%;
+    margin-bottom: 1px;
+    margin-top: 0.05%;
+
+    width: 40px;
+    height: 30px;
+    /* padding:5px  */
+
+}
+.picture img{
+/* background-image: 20%; */
+height:500px ;
+width:100%;
+}
+.box-container{
+    margin: auto;
+    /* margin-top: 20%;
+    position: relative; */
+    width:300px;
+    height: 67%;
+    border:4px solid blue;
+    padding: 0px 10px;
+    border-radius: 50px;
+    }
+    .element-container{
+        width: 100%;
+        height: 100%;
+        vertical-align: middle;
+
+    }
+    .search{
+        border: none;
+        height: 100%;
+        width: 100%;
+        padding: 0px 5px ;
+        border-radius: 50px;
+        font-size: 18px;
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: aqua;
+        font-weight: 500;
+    }
+    .search:focus
+    {
+        outline:none ;
+
+    }
+    .material-icons{
+        font-size: 26;
+        color: black;
+        margin-right: 50px;
+    }
+    .heading{
+        font-size: 150%;
+        font-family:Verdana, Geneva, Tahoma, sans-serif
+    }
+    .card img{
+        width: 250px;
+        border: 2px solid black;
+        border-radius: 50px;
+    }
+    .card h3{
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: rgb(38, 118, 38);
+
+    }
+    .card2 img{
+        width: 250px;
+        border: 2px solid black;
+        border-radius: 50px;
+        float:left;
+    }
+    
+    /* .img{
+        float: left;
+        width: 25;
+        padding: 5px;
+    }
+    .img #pic{
+        width: 100%;
+        height: 150px;
+        flex-shrink: 0;
+    } */
+    /* .pics img{
+       float: left;
+        height: 50%;
+        width:15%;
+        border: 2px solid rgb(25, 116, 25);
+        border-radius: 10%;
+        padding: 4px 7px;
+       
+    }
+    .pics2 img{
+       float:left;
+       margin-bottom: 50px;
+       
+    } */
