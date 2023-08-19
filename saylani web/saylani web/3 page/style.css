@@ -1,0 +1,55 @@
+.text h1{
+    
+    font-size: 50px;
+        color: green;
+        justify-content: center;
+        display: flex;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    }
+    .text h2{
+        font-size: 30px;
+        color: blue;
+        justify-content: center;
+        display: flex;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-seri
+    }
+    .form label{
+        /* justify-content: center; */
+        display: flex;
+    }
+    .form{
+        display: flex;
+        justify-content: center;
+        padding: 60px;
+        font-size: 20px;
+       
+    }
+    .center button{
+        justify-content: center;
+        display: flex;
+
+        border: 2px solid black;
+        background: none;
+        padding: 10px 20px;
+        font-size: 20px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        cursor: pointer;
+        margin: 30px;
+        transition: 0.8s;
+        background-color:rgb(4, 148, 4);
+        margin-right: 80px;
+       
+    }
+    .center button{
+        color: white;
+       
+        
+    }
+    .center button:hover{
+        color:rgb(38, 38, 149)
+    }
+     
+    
+    
+    
